@@ -1,0 +1,30 @@
+C:\Users\Bas\source\repos\Sharpphone\Sharpphone\bin\Debug\net6.0\Sharpphone.exe
+C:\Users\Bas\source\repos\Sharpphone\Sharpphone\bin\Debug\net6.0\Sharpphone.deps.json
+C:\Users\Bas\source\repos\Sharpphone\Sharpphone\bin\Debug\net6.0\Sharpphone.runtimeconfig.json
+C:\Users\Bas\source\repos\Sharpphone\Sharpphone\bin\Debug\net6.0\Sharpphone.dll
+C:\Users\Bas\source\repos\Sharpphone\Sharpphone\bin\Debug\net6.0\Sharpphone.pdb
+C:\Users\Bas\source\repos\Sharpphone\Sharpphone\obj\Debug\net6.0\Sharpphone.csproj.AssemblyReference.cache
+C:\Users\Bas\source\repos\Sharpphone\Sharpphone\obj\Debug\net6.0\Sharpphone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bas\source\repos\Sharpphone\Sharpphone\obj\Debug\net6.0\Sharpphone.AssemblyInfoInputs.cache
+C:\Users\Bas\source\repos\Sharpphone\Sharpphone\obj\Debug\net6.0\Sharpphone.AssemblyInfo.cs
+C:\Users\Bas\source\repos\Sharpphone\Sharpphone\obj\Debug\net6.0\Sharpphone.csproj.CoreCompileInputs.cache
+C:\Users\Bas\source\repos\Sharpphone\Sharpphone\obj\Debug\net6.0\Sharpphone.dll
+C:\Users\Bas\source\repos\Sharpphone\Sharpphone\obj\Debug\net6.0\refint\Sharpphone.dll
+C:\Users\Bas\source\repos\Sharpphone\Sharpphone\obj\Debug\net6.0\Sharpphone.pdb
+C:\Users\Bas\source\repos\Sharpphone\Sharpphone\obj\Debug\net6.0\Sharpphone.genruntimeconfig.cache
+C:\Users\Bas\source\repos\Sharpphone\Sharpphone\obj\Debug\net6.0\ref\Sharpphone.dll
+D:\Laptop Noemie\Sharpphone\Sharpphone\bin\Debug\net6.0\Sharpphone.exe
+D:\Laptop Noemie\Sharpphone\Sharpphone\bin\Debug\net6.0\Sharpphone.deps.json
+D:\Laptop Noemie\Sharpphone\Sharpphone\bin\Debug\net6.0\Sharpphone.runtimeconfig.json
+D:\Laptop Noemie\Sharpphone\Sharpphone\bin\Debug\net6.0\Sharpphone.dll
+D:\Laptop Noemie\Sharpphone\Sharpphone\bin\Debug\net6.0\Sharpphone.pdb
+D:\Laptop Noemie\Sharpphone\Sharpphone\obj\Debug\net6.0\Sharpphone.csproj.AssemblyReference.cache
+D:\Laptop Noemie\Sharpphone\Sharpphone\obj\Debug\net6.0\Sharpphone.GeneratedMSBuildEditorConfig.editorconfig
+D:\Laptop Noemie\Sharpphone\Sharpphone\obj\Debug\net6.0\Sharpphone.AssemblyInfoInputs.cache
+D:\Laptop Noemie\Sharpphone\Sharpphone\obj\Debug\net6.0\Sharpphone.AssemblyInfo.cs
+D:\Laptop Noemie\Sharpphone\Sharpphone\obj\Debug\net6.0\Sharpphone.csproj.CoreCompileInputs.cache
+D:\Laptop Noemie\Sharpphone\Sharpphone\obj\Debug\net6.0\Sharpphone.dll
+D:\Laptop Noemie\Sharpphone\Sharpphone\obj\Debug\net6.0\refint\Sharpphone.dll
+D:\Laptop Noemie\Sharpphone\Sharpphone\obj\Debug\net6.0\Sharpphone.pdb
+D:\Laptop Noemie\Sharpphone\Sharpphone\obj\Debug\net6.0\Sharpphone.genruntimeconfig.cache
+D:\Laptop Noemie\Sharpphone\Sharpphone\obj\Debug\net6.0\ref\Sharpphone.dll
