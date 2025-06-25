@@ -1,0 +1,15 @@
+C:\Users\noemi\source\repos\assignment15\assignment15\obj\Debug\net6.0\assignment15.csproj.AssemblyReference.cache
+C:\Users\noemi\source\repos\assignment15\assignment15\obj\Debug\net6.0\assignment15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noemi\source\repos\assignment15\assignment15\obj\Debug\net6.0\assignment15.AssemblyInfoInputs.cache
+C:\Users\noemi\source\repos\assignment15\assignment15\obj\Debug\net6.0\assignment15.AssemblyInfo.cs
+C:\Users\noemi\source\repos\assignment15\assignment15\obj\Debug\net6.0\assignment15.csproj.CoreCompileInputs.cache
+C:\Users\noemi\source\repos\assignment15\assignment15\bin\Debug\net6.0\assignment15.exe
+C:\Users\noemi\source\repos\assignment15\assignment15\bin\Debug\net6.0\assignment15.deps.json
+C:\Users\noemi\source\repos\assignment15\assignment15\bin\Debug\net6.0\assignment15.runtimeconfig.json
+C:\Users\noemi\source\repos\assignment15\assignment15\bin\Debug\net6.0\assignment15.dll
+C:\Users\noemi\source\repos\assignment15\assignment15\bin\Debug\net6.0\assignment15.pdb
+C:\Users\noemi\source\repos\assignment15\assignment15\obj\Debug\net6.0\assignment15.dll
+C:\Users\noemi\source\repos\assignment15\assignment15\obj\Debug\net6.0\refint\assignment15.dll
+C:\Users\noemi\source\repos\assignment15\assignment15\obj\Debug\net6.0\assignment15.pdb
+C:\Users\noemi\source\repos\assignment15\assignment15\obj\Debug\net6.0\assignment15.genruntimeconfig.cache
+C:\Users\noemi\source\repos\assignment15\assignment15\obj\Debug\net6.0\ref\assignment15.dll
