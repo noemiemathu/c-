@@ -1,0 +1,15 @@
+C:\Users\noemi\source\repos\assignment16\assignment16\bin\Debug\net6.0\assignment16.exe
+C:\Users\noemi\source\repos\assignment16\assignment16\bin\Debug\net6.0\assignment16.deps.json
+C:\Users\noemi\source\repos\assignment16\assignment16\bin\Debug\net6.0\assignment16.runtimeconfig.json
+C:\Users\noemi\source\repos\assignment16\assignment16\bin\Debug\net6.0\assignment16.dll
+C:\Users\noemi\source\repos\assignment16\assignment16\bin\Debug\net6.0\assignment16.pdb
+C:\Users\noemi\source\repos\assignment16\assignment16\obj\Debug\net6.0\assignment16.csproj.AssemblyReference.cache
+C:\Users\noemi\source\repos\assignment16\assignment16\obj\Debug\net6.0\assignment16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noemi\source\repos\assignment16\assignment16\obj\Debug\net6.0\assignment16.AssemblyInfoInputs.cache
+C:\Users\noemi\source\repos\assignment16\assignment16\obj\Debug\net6.0\assignment16.AssemblyInfo.cs
+C:\Users\noemi\source\repos\assignment16\assignment16\obj\Debug\net6.0\assignment16.csproj.CoreCompileInputs.cache
+C:\Users\noemi\source\repos\assignment16\assignment16\obj\Debug\net6.0\assignment16.dll
+C:\Users\noemi\source\repos\assignment16\assignment16\obj\Debug\net6.0\refint\assignment16.dll
+C:\Users\noemi\source\repos\assignment16\assignment16\obj\Debug\net6.0\assignment16.pdb
+C:\Users\noemi\source\repos\assignment16\assignment16\obj\Debug\net6.0\assignment16.genruntimeconfig.cache
+C:\Users\noemi\source\repos\assignment16\assignment16\obj\Debug\net6.0\ref\assignment16.dll
