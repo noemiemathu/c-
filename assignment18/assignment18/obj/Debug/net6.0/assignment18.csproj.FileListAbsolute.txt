@@ -1,0 +1,14 @@
+C:\Users\noemi\source\repos\assignment18\assignment18\bin\Debug\net6.0\assignment18.exe
+C:\Users\noemi\source\repos\assignment18\assignment18\bin\Debug\net6.0\assignment18.deps.json
+C:\Users\noemi\source\repos\assignment18\assignment18\bin\Debug\net6.0\assignment18.runtimeconfig.json
+C:\Users\noemi\source\repos\assignment18\assignment18\bin\Debug\net6.0\assignment18.dll
+C:\Users\noemi\source\repos\assignment18\assignment18\bin\Debug\net6.0\assignment18.pdb
+C:\Users\noemi\source\repos\assignment18\assignment18\obj\Debug\net6.0\assignment18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noemi\source\repos\assignment18\assignment18\obj\Debug\net6.0\assignment18.AssemblyInfoInputs.cache
+C:\Users\noemi\source\repos\assignment18\assignment18\obj\Debug\net6.0\assignment18.AssemblyInfo.cs
+C:\Users\noemi\source\repos\assignment18\assignment18\obj\Debug\net6.0\assignment18.csproj.CoreCompileInputs.cache
+C:\Users\noemi\source\repos\assignment18\assignment18\obj\Debug\net6.0\assignment18.dll
+C:\Users\noemi\source\repos\assignment18\assignment18\obj\Debug\net6.0\refint\assignment18.dll
+C:\Users\noemi\source\repos\assignment18\assignment18\obj\Debug\net6.0\assignment18.pdb
+C:\Users\noemi\source\repos\assignment18\assignment18\obj\Debug\net6.0\assignment18.genruntimeconfig.cache
+C:\Users\noemi\source\repos\assignment18\assignment18\obj\Debug\net6.0\ref\assignment18.dll
