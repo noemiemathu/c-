@@ -1,0 +1,15 @@
+C:\Users\noemi\source\repos\assignment9\assignment9\bin\Debug\net6.0\assignment9.exe
+C:\Users\noemi\source\repos\assignment9\assignment9\bin\Debug\net6.0\assignment9.deps.json
+C:\Users\noemi\source\repos\assignment9\assignment9\bin\Debug\net6.0\assignment9.runtimeconfig.json
+C:\Users\noemi\source\repos\assignment9\assignment9\bin\Debug\net6.0\assignment9.dll
+C:\Users\noemi\source\repos\assignment9\assignment9\bin\Debug\net6.0\assignment9.pdb
+C:\Users\noemi\source\repos\assignment9\assignment9\obj\Debug\net6.0\assignment9.csproj.AssemblyReference.cache
+C:\Users\noemi\source\repos\assignment9\assignment9\obj\Debug\net6.0\assignment9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noemi\source\repos\assignment9\assignment9\obj\Debug\net6.0\assignment9.AssemblyInfoInputs.cache
+C:\Users\noemi\source\repos\assignment9\assignment9\obj\Debug\net6.0\assignment9.AssemblyInfo.cs
+C:\Users\noemi\source\repos\assignment9\assignment9\obj\Debug\net6.0\assignment9.csproj.CoreCompileInputs.cache
+C:\Users\noemi\source\repos\assignment9\assignment9\obj\Debug\net6.0\assignment9.dll
+C:\Users\noemi\source\repos\assignment9\assignment9\obj\Debug\net6.0\refint\assignment9.dll
+C:\Users\noemi\source\repos\assignment9\assignment9\obj\Debug\net6.0\assignment9.pdb
+C:\Users\noemi\source\repos\assignment9\assignment9\obj\Debug\net6.0\assignment9.genruntimeconfig.cache
+C:\Users\noemi\source\repos\assignment9\assignment9\obj\Debug\net6.0\ref\assignment9.dll
