@@ -1,0 +1,15 @@
+C:\Users\noemi\source\repos\assignment12\assignment12\bin\Debug\net6.0\assignment12.exe
+C:\Users\noemi\source\repos\assignment12\assignment12\bin\Debug\net6.0\assignment12.deps.json
+C:\Users\noemi\source\repos\assignment12\assignment12\bin\Debug\net6.0\assignment12.runtimeconfig.json
+C:\Users\noemi\source\repos\assignment12\assignment12\bin\Debug\net6.0\assignment12.dll
+C:\Users\noemi\source\repos\assignment12\assignment12\bin\Debug\net6.0\assignment12.pdb
+C:\Users\noemi\source\repos\assignment12\assignment12\obj\Debug\net6.0\assignment12.csproj.AssemblyReference.cache
+C:\Users\noemi\source\repos\assignment12\assignment12\obj\Debug\net6.0\assignment12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noemi\source\repos\assignment12\assignment12\obj\Debug\net6.0\assignment12.AssemblyInfoInputs.cache
+C:\Users\noemi\source\repos\assignment12\assignment12\obj\Debug\net6.0\assignment12.AssemblyInfo.cs
+C:\Users\noemi\source\repos\assignment12\assignment12\obj\Debug\net6.0\assignment12.csproj.CoreCompileInputs.cache
+C:\Users\noemi\source\repos\assignment12\assignment12\obj\Debug\net6.0\assignment12.dll
+C:\Users\noemi\source\repos\assignment12\assignment12\obj\Debug\net6.0\refint\assignment12.dll
+C:\Users\noemi\source\repos\assignment12\assignment12\obj\Debug\net6.0\assignment12.pdb
+C:\Users\noemi\source\repos\assignment12\assignment12\obj\Debug\net6.0\assignment12.genruntimeconfig.cache
+C:\Users\noemi\source\repos\assignment12\assignment12\obj\Debug\net6.0\ref\assignment12.dll
