@@ -1,0 +1,15 @@
+C:\Users\noemi\source\repos\assignement10\assignement10\bin\Debug\net6.0\assignement10.exe
+C:\Users\noemi\source\repos\assignement10\assignement10\bin\Debug\net6.0\assignement10.deps.json
+C:\Users\noemi\source\repos\assignement10\assignement10\bin\Debug\net6.0\assignement10.runtimeconfig.json
+C:\Users\noemi\source\repos\assignement10\assignement10\bin\Debug\net6.0\assignement10.dll
+C:\Users\noemi\source\repos\assignement10\assignement10\bin\Debug\net6.0\assignement10.pdb
+C:\Users\noemi\source\repos\assignement10\assignement10\obj\Debug\net6.0\assignement10.csproj.AssemblyReference.cache
+C:\Users\noemi\source\repos\assignement10\assignement10\obj\Debug\net6.0\assignement10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noemi\source\repos\assignement10\assignement10\obj\Debug\net6.0\assignement10.AssemblyInfoInputs.cache
+C:\Users\noemi\source\repos\assignement10\assignement10\obj\Debug\net6.0\assignement10.AssemblyInfo.cs
+C:\Users\noemi\source\repos\assignement10\assignement10\obj\Debug\net6.0\assignement10.csproj.CoreCompileInputs.cache
+C:\Users\noemi\source\repos\assignement10\assignement10\obj\Debug\net6.0\assignement10.dll
+C:\Users\noemi\source\repos\assignement10\assignement10\obj\Debug\net6.0\refint\assignement10.dll
+C:\Users\noemi\source\repos\assignement10\assignement10\obj\Debug\net6.0\assignement10.pdb
+C:\Users\noemi\source\repos\assignement10\assignement10\obj\Debug\net6.0\assignement10.genruntimeconfig.cache
+C:\Users\noemi\source\repos\assignement10\assignement10\obj\Debug\net6.0\ref\assignement10.dll
