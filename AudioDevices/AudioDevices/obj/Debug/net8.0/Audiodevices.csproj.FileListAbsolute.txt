@@ -1,0 +1,4 @@
+C:\Users\noemi\source\repos\AudioDevices\Audiodevices\obj\Debug\net8.0\Audiodevices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noemi\source\repos\AudioDevices\Audiodevices\obj\Debug\net8.0\Audiodevices.AssemblyInfoInputs.cache
+C:\Users\noemi\source\repos\AudioDevices\Audiodevices\obj\Debug\net8.0\Audiodevices.AssemblyInfo.cs
+C:\Users\noemi\source\repos\AudioDevices\Audiodevices\obj\Debug\net8.0\Audiodevices.csproj.CoreCompileInputs.cache
