@@ -1,0 +1,14 @@
+C:\Users\noemi\source\repos\sharpphone\sharpphone\bin\Debug\net6.0\sharpphone.exe
+C:\Users\noemi\source\repos\sharpphone\sharpphone\bin\Debug\net6.0\sharpphone.deps.json
+C:\Users\noemi\source\repos\sharpphone\sharpphone\bin\Debug\net6.0\sharpphone.runtimeconfig.json
+C:\Users\noemi\source\repos\sharpphone\sharpphone\bin\Debug\net6.0\sharpphone.dll
+C:\Users\noemi\source\repos\sharpphone\sharpphone\bin\Debug\net6.0\sharpphone.pdb
+C:\Users\noemi\source\repos\sharpphone\sharpphone\obj\Debug\net6.0\sharpphone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noemi\source\repos\sharpphone\sharpphone\obj\Debug\net6.0\sharpphone.AssemblyInfoInputs.cache
+C:\Users\noemi\source\repos\sharpphone\sharpphone\obj\Debug\net6.0\sharpphone.AssemblyInfo.cs
+C:\Users\noemi\source\repos\sharpphone\sharpphone\obj\Debug\net6.0\sharpphone.csproj.CoreCompileInputs.cache
+C:\Users\noemi\source\repos\sharpphone\sharpphone\obj\Debug\net6.0\sharpphone.dll
+C:\Users\noemi\source\repos\sharpphone\sharpphone\obj\Debug\net6.0\refint\sharpphone.dll
+C:\Users\noemi\source\repos\sharpphone\sharpphone\obj\Debug\net6.0\sharpphone.pdb
+C:\Users\noemi\source\repos\sharpphone\sharpphone\obj\Debug\net6.0\sharpphone.genruntimeconfig.cache
+C:\Users\noemi\source\repos\sharpphone\sharpphone\obj\Debug\net6.0\ref\sharpphone.dll
